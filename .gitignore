@@ -1,0 +1,13 @@
+# API keys & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# Colab
+.kaggle/
